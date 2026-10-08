@@ -1,0 +1,13 @@
+EXACT PUBLISHED WEBSITE EXPORT
+Antica Trattoria Nardini · Website Demo
+Published version: 2
+Published source commit: d4354cec9f231a288fd890295f40be4e4a69b88e
+Published URL: https://antica-trattoria-nardini-demo.rtghjk.chatgpt.site
+
+The website files are copied byte-for-byte from the published deployment's dist directory into this ZIP root. All runtime files match the saved source commit and publication archive. The 3 original AI image PNGs are retained under source-assets, also unchanged from that commit. No source/assets regenerated, replaced, or edited. No Site publication or GitHub upload performed for this export.
+
+Open index.html or serve this directory as an ordinary static website. No installation, API, backend, external image/font host, or build step required. CSS/JS contain the original animations and reduced-motion behavior. Metadata and SVG favicon are embedded in index.html. Font licenses are preserved under assets/font-license.txt.
+
+Verification: every local src/href/srcset/CSS URL exists; original image and font files decode; every exported runtime file served successfully over local HTTP with appropriate MIME types; internal anchors resolve; phone links and Google Maps destination syntax match the published project; ZIP CRC and byte hashes verified. Hero sticker absent and Prenotazioni heading preserved.
+
+Limit: browser visual/rendering, actual Android testing and external telephone/Maps application launch were not available; not claimed as completed. Source code and original assets are fully recovered, with no placeholders or missing files.
